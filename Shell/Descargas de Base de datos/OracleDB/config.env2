@@ -1,0 +1,7 @@
+# Archivo de configuración de entorno para conexión a Oracle DB
+
+ORACLE_HOST=localhost
+ORACLE_PORT=1521
+ORACLE_SERVICE=ORCL
+ORACLE_USER=usuario
+ORACLE_PASSWORD=contraseña
